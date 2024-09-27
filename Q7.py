@@ -1,0 +1,2 @@
+input1,input2 = str(input("Enter String1: ")), str(input("Enter String2: ")) #user inputs for 2 string  
+print(sorted(input1) == sorted(input2))                                      # sorted the string and checked they are same for anagrams
